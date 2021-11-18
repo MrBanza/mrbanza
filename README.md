@@ -28,6 +28,5 @@
   </div>
   
   ##
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/12181207195?si=cc8f918a78614ac3)
--->
+
 ![Snake animation](https://github.com/mrbanza/mrbanza/blob/output/github-contribution-grid-snake.svg)
