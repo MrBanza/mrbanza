@@ -2,8 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/MrBanza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrbanza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbanza&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrBanza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -29,14 +28,4 @@
 
 ---
 
-## 🎉 **Alegria no seu dia!**
-
-😄 Aqui vai um meme aleatório para alegrar sua visita:
-
-<div>
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Atualize a página se o meme não aparecer.">
-</div>
-
----
-
-![Snake animation](https://github.com/mrbanza/mrbanza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MrBanza/MrBanza/blob/output/github-contribution-grid-snake.svg)
